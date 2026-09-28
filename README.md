@@ -21,14 +21,14 @@ Na época da declaração de Imposto de Renda, as informações costumam estar e
 
 ## Funcionalidades e Destaques
 
-* **🏠 Página Inicial com Menu:** Menu de navegação rápido para acessar todas as páginas do projeto.
-* **🧭 Navegação Intuitiva:** links de navegação no menu principal, além de botões *Anterior* e *Próximo* em cada aba.
-* **📝 Campos de Entrada Guiados:** Seções organizadas com validação de dados, mensagens de entrada e alertas de erro (ex: lista suspensa de bancos).
-* **🔢 Formatação Personalizada:** Máscaras automáticas para CPF, telefone, CEP e valores numéricos.
-* **☑️ Checkboxes Interativas:** Caixas de seleção para controle de pendências e conferência.
-* **🔒 Estrutura Protegida:** Apenas as células de preenchimento do usuário ficam liberadas, garantindo que fórmulas e layouts não sejam danificados acidentalmente.
-* **📊 Resumo Consolidado Automatizado:** Painel final que busca automaticamente as informações preenchidas nas outras abas.
-* **📄 Exportação em PDF com 1 Clique (VBA):** Botão automatizado para exportar o resumo final formatado na horizontal.
+* Página Inicial com Menu:** Menu de navegação rápido para acessar todas as páginas do projeto.
+* Navegação Intuitiva:** links de navegação no menu principal, além de botões *Anterior* e *Próximo* em cada aba.
+* Campos de Entrada Guiados:** Seções organizadas com validação de dados, mensagens de entrada e alertas de erro (ex: lista suspensa de bancos).
+* Formatação Personalizada:** Máscaras automáticas para CPF, telefone, CEP e valores numéricos.
+* Checkboxes Interativas:** Caixas de seleção para controle de pendências e conferência.
+* Estrutura Protegida:** Apenas as células de preenchimento do usuário ficam liberadas, garantindo que fórmulas e layouts não sejam danificados acidentalmente.
+* Resumo Consolidado Automatizado:** Painel final que busca automaticamente as informações preenchidas nas outras abas.
+* Exportação em PDF com 1 Clique (VBA):** Botão automatizado para exportar o resumo final formatado na horizontal.
 
 ---
 
@@ -68,7 +68,7 @@ Na época da declaração de Imposto de Renda, as informações costumam estar e
 
 ## Como Usar
 
-1. Baixe o arquivo `Lion-Tax.xlsm` presente neste repositório.
+1. Baixe o arquivo `Projeto Lion-Tax.xlsm` presente neste repositório.
 2. Abra no Microsoft Excel e clique em **"Habilitar Conteúdo / Macros"** (necessário para o funcionamento dos botões e do exportador em PDF).
 3. Navegue pelo menu da página inicial ou utilize os botões de navegação.
 4. Preencha os campos desbloqueados e marque as checkboxes de conferência.
@@ -87,7 +87,6 @@ Na época da declaração de Imposto de Renda, as informações costumam estar e
 
 ---
 
-👤 **Autora:** Maria Silva 
-🎓 **Projeto:** Bootcamp Santander - Excel + IA  
+👤 **Autora:** Maria Silva | 🎓 **Projeto:** Bootcamp Santander - Excel + IA  
 
 [🔗 Meu LinkedIn](https://www.linkedin.com/in/maria-luiza-leite-silva-/) | [💻 Meu GitHub](https://github.com/mariasilva-sketch)
