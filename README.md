@@ -21,14 +21,14 @@ Na época da declaração de Imposto de Renda, as informações costumam estar e
 
 ## Funcionalidades e Destaques
 
-* Página Inicial com Menu:** Menu de navegação rápido para acessar todas as páginas do projeto.
-* Navegação Intuitiva:** links de navegação no menu principal, além de botões *Anterior* e *Próximo* em cada aba.
-* Campos de Entrada Guiados:** Seções organizadas com validação de dados, mensagens de entrada e alertas de erro (ex: lista suspensa de bancos).
-* Formatação Personalizada:** Máscaras automáticas para CPF, telefone, CEP e valores numéricos.
-* Checkboxes Interativas:** Caixas de seleção para controle de pendências e conferência.
-* Estrutura Protegida:** Apenas as células de preenchimento do usuário ficam liberadas, garantindo que fórmulas e layouts não sejam danificados acidentalmente.
-* Resumo Consolidado Automatizado:** Painel final que busca automaticamente as informações preenchidas nas outras abas.
-* Exportação em PDF com 1 Clique (VBA):** Botão automatizado para exportar o resumo final formatado na horizontal.
+* **Página Inicial com Menu:** Menu de navegação rápido para acessar todas as páginas do projeto.
+* **Navegação Intuitiva:** links de navegação no menu principal, além de botões *Anterior* e *Próximo* em cada aba.
+* **Campos de Entrada Guiados:** Seções organizadas com validação de dados, mensagens de entrada e alertas de erro (ex: lista suspensa de bancos).
+* **Formatação Personalizada:** Máscaras automáticas para CPF, telefone, CEP e valores numéricos.
+* **Checkboxes Interativas:** Caixas de seleção para controle de pendências e conferência.
+* **Estrutura Protegida:** Apenas as células de preenchimento do usuário ficam liberadas, garantindo que fórmulas e layouts não sejam danificados acidentalmente.
+* **Resumo Consolidado Automatizado:** Painel final que busca automaticamente as informações preenchidas nas outras abas.
+* **Exportação em PDF com 1 Clique (VBA):** Botão automatizado para exportar o resumo final formatado na horizontal.
 
 ---
 
